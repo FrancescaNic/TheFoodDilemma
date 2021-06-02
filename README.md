@@ -15,3 +15,7 @@ Warning :
 It is not recommended to perform all functions at once because of the long execution time. 
 Rather, please comment the non-essential functions depending on the results you wish to view.
 Find above each function what it generates.
+
+______________________________________________________________________________________________________________________________
+
+You also find our final presentation and all the sources we used for this miniproject as pdf.
